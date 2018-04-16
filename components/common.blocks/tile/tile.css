@@ -1,0 +1,10 @@
+.tile {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.tile__image {
+  max-width: 100%;
+}

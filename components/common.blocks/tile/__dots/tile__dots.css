@@ -1,0 +1,29 @@
+.tile__dots {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  width: 1.875rem;
+  height: 1.25rem;
+
+  cursor: pointer;
+
+  background: none;
+  border: none;
+}
+
+.tile__dots::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  content: "";
+  transform: translate(-50%, -50%);
+
+  background-image: url(/img/sprite/sprite.png);
+  background-position: -21px -15px;
+  width: 14px;
+  height: 4px;
+  background-size: 45px, 31px;
+  background-repeat: no-repeat;
+}

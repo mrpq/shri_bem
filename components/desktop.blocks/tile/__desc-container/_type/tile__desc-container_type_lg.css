@@ -1,0 +1,8 @@
+.tile__desc-container_type_lg {
+    flex-direction: column;
+    flex-grow: 1;
+
+    height: auto;
+    margin-top: 0;
+    margin-left: 1rem;
+}

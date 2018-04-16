@@ -1,0 +1,7 @@
+.tile__title {
+    overflow: hidden;
+    word-break: break-word;
+    background-color: #fff;
+    font-family: "YS Text";
+    font-weight: bold;
+}

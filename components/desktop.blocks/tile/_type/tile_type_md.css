@@ -1,0 +1,6 @@
+.tile_type_md {
+    max-width: 21.5rem;
+    height: 18.875rem;
+
+    grid-column: span 3;
+}

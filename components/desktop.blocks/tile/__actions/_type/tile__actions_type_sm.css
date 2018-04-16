@@ -1,0 +1,5 @@
+@media (min-width: 321px) {
+  .tile-sm__actions {
+    max-height: none;
+  }
+}

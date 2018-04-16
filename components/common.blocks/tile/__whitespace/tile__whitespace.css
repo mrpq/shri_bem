@@ -1,0 +1,8 @@
+.tile__whitespace {
+    background-color: #fff;
+}
+@media (min-width: 320px) {
+    .tile__whitespace {
+        height: 0.875rem;
+    }
+}

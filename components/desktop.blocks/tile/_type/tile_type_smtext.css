@@ -1,0 +1,5 @@
+.tile_type_smtext {
+    max-height: 232px;
+
+    grid-column: span 2;
+}

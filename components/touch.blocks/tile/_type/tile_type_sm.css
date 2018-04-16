@@ -1,0 +1,11 @@
+.tile_type_sm {
+  min-height: 180px;
+
+  grid-column: span 3;
+}
+
+@media (min-width: 321px) {
+  .tile_type_sm {
+    min-height: 12.5rem;
+  }
+}

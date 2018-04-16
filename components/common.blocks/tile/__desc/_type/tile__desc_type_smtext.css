@@ -1,0 +1,10 @@
+.tile__desc_type_smtext {
+    overflow: hidden;
+
+    max-height: 120px;
+    margin: 0;
+    margin-top: 12px;
+
+    font-size: 14px;
+    line-height: 20px;
+}

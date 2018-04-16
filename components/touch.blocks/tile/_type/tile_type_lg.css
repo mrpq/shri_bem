@@ -1,0 +1,5 @@
+.tile_type_lg {
+  max-width: 21.5rem;
+
+  grid-column: span 6;
+}

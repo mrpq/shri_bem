@@ -1,0 +1,5 @@
+.tile_type_sm {
+    max-height: 14.5rem;
+
+    grid-column: span 2;
+}

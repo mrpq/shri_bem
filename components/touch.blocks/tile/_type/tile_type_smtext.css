@@ -1,0 +1,5 @@
+.tile_type_smtext {
+  min-height: 200px;
+
+  grid-column: span 3;
+}

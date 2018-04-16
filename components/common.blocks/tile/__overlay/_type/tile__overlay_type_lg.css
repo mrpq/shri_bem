@@ -1,0 +1,9 @@
+.tile__overlay_type_lg {
+    position: absolute;
+    top: 0;
+
+    overflow: hidden;
+
+    width: 100%;
+    max-height: 3.75rem;
+}

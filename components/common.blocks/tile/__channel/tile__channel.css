@@ -1,0 +1,9 @@
+.tile__channel {
+  overflow: hidden;
+  flex-grow: 1;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+}

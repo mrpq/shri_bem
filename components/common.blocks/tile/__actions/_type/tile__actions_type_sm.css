@@ -1,0 +1,12 @@
+.tile__actions_type_sm {
+  flex: 1;
+
+  max-height: 6.5625rem;
+  margin-top: auto;
+}
+
+@media (min-width: 321px) {
+  .tile__actions_type_sm {
+    max-height: none;
+  }
+}

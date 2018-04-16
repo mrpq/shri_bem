@@ -1,0 +1,7 @@
+.tile_type_lg {
+    flex-direction: row;
+
+    max-width: none;
+    max-height: 15.1875rem;
+    grid-column: span 6;
+}
