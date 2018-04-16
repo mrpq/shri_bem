@@ -1,4 +1,5 @@
 block("tile")({
+  tag: "article",
   mods: (node, ctx) => ({ type: ctx.data.size })
 });
 
